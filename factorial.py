@@ -1,8 +1,11 @@
 def factorial(inputValue):
     if(inputValue==1):
-        return 1
+        return 1                                        #base case
     else:
-        return inputValue*factorial(inputValue-1)    
+        return inputValue*factorial(inputValue-1)       #recursive case
 
-_input=int(input("Enter a number : "))
-print(factorial(_input))
+try:
+    inputNumber=int(input("Enter a number : "))
+    print(factorial(inputNumber))
+except ValueError:
+    print("Enter a integer !")
