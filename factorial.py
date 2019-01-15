@@ -1,5 +1,5 @@
 def factorial(inputValue):
-    if(inputValue==1):
+    if(inputValue==0):
         return 1                                        #base case
     else:
         return inputValue*factorial(inputValue-1)       #recursive case
