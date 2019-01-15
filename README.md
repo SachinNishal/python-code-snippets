@@ -10,3 +10,5 @@
 * [fatorial](../master/factorial.py) - find factorial of a given number.
 * [collatzSequence](../master/collatzSequence.py) - find collatz sequence of a given number.
 * [fizzBuzz](../master/fizzBuzz.py) - solution to fizzBuzz.
+---
+[![HitCount](http://hits.dwyl.io/SachinNishal/Python-code-snippets.svg)](http://hits.dwyl.io/SachinNishal/Python-code-snippets)
