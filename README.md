@@ -3,7 +3,7 @@
 * give a star if you found this repo helpful.
 ---
 # How to Run
-* install Python3.
+* [install Python3.](https://www.python.org/downloads/)
 ---
 * [helloWorld](../master/helloWorld.py) - a simple hello world application.
 * [capitalize](../master/capitalize.py) - code snippet that converts every first letter of words in a given text string.
