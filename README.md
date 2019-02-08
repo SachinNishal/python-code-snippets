@@ -10,5 +10,7 @@
 * [fatorial](../master/factorial/factorial.py) - find factorial of a given number.
 * [collatzSequence](../master/collatzSequence/collatzSequence.py) - find collatz sequence of a given number.
 * [fizzBuzz](../master/fizzBuzz/fizzBuzz.py) - solution to fizzBuzz.
+* [palindrome](../master/palindrome/palindrome.py) - find if given string is a palindrome.
+* [simpleCalculator](../master/simpleCalculator/simpleCalculator.py) - calculate +, -, /, * of two given numbers.
 ---
 [![HitCount](http://hits.dwyl.io/SachinNishal/Python-code-snippets.svg)](http://hits.dwyl.io/SachinNishal/Python-code-snippets)
