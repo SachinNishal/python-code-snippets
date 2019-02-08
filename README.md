@@ -1,5 +1,5 @@
 # Python-code-snippets
-* Useful code snippets written in python.
+* Useful code snippets written in python3.
 * give a star if you found this repo helpful.
 ---
 # How to Run
