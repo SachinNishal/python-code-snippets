@@ -7,7 +7,7 @@
 ---
 * [helloWorld](../master/helloWorld/helloWorld.py) - a simple hello world application.
 * [capitalize](../master/capitalize/capitalize.py) - code snippet that converts every first letter of words in a given text string.
-* [fatorial](../master/factorial/factorial.py) - find factorial of a given number.
+* [factorial](../master/factorial/factorial.py) - find factorial of a given number.
 * [collatzSequence](../master/collatzSequence/collatzSequence.py) - find collatz sequence of a given number.
 * [fizzBuzz](../master/fizzBuzz/fizzBuzz.py) - solution to fizzBuzz.
 * [palindrome](../master/palindrome/palindrome.py) - find if given string is a palindrome.
