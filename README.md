@@ -12,5 +12,5 @@
 * [fizzBuzz](../master/fizzBuzz/fizzBuzz.py) - solution to fizzBuzz.
 * [palindrome](../master/palindrome/palindrome.py) - find if given string is a palindrome.
 * [simpleCalculator](../master/simpleCalculator/simpleCalculator.py) - calculate +, -, /, * of two given numbers.
-* [fibonacci](../master/simpleCalculator/fibonacci.py) - display fibonacci series upto a given no. of terms.
+* [fibonacci](../master/fibonacci/fibonacci.py) - display fibonacci series upto a given no. of terms.
 ---
