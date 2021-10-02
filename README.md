@@ -13,4 +13,3 @@
 * [palindrome](../master/palindrome/palindrome.py) - find if given string is a palindrome.
 * [simpleCalculator](../master/simpleCalculator/simpleCalculator.py) - calculate +, -, /, * of two given numbers.
 ---
-[![HitCount](http://hits.dwyl.io/SachinNishal/Python-code-snippets.svg)](http://hits.dwyl.io/SachinNishal/Python-code-snippets)
